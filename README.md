@@ -33,19 +33,5 @@ Welcome to the official repository for the **manual testing** of the **Practice 
 - Severity levels
 - Status updates
 - Reproduction steps
+  
 
----
-
-## 🤝 Contributing
-
-We welcome all contributions!  
-Whether you're:
-- Reporting issues 🐛  
-- Suggesting improvements 💡  
-- Adding new test cases 📄  
-
-Your input is **highly appreciated** and will help improve the overall quality and effectiveness of the testing process.
-
----
-
-> Let's work together to ensure a smooth and efficient testing experience! 🚀
